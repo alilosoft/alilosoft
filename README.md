@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hey there 👋 السلام عليكم
+
+<h1 align=center>I'm Ali (aka: alilo) | أنا علي (عليلو) </h1>
+<h2 align=right>أسعى لأكون مهندس برمجيات محترف </h2>
+<h2 align=right>Struggling to become a profesional software engineer</h2>
+<!--   -->
 
 <!--
 **alilosoft/alilosoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
