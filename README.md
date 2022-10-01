@@ -1,7 +1,7 @@
 <h3 align=center> Hey there 👋 السلام عليكم</h3>
 
 <h1 align=center>I'm Ali (aka: alilo) | أنا علي (عليلو) </h1>
-<h3 align=right>أسعى لأكون مهندس برمجيات محترف </h2>
+<h3 align=right>أسعى لأكون مهندس برمجيات محترف بإذن الله</h2>
 <h3>Struggling to become a profesional software engineer</h2>
 <!--   -->
 
